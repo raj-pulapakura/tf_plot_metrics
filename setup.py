@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1' 
+VERSION = '0.1.0' 
 DESCRIPTION = 'Opinionated performance plotting for TensorFlow models.'
 LONG_DESCRIPTION = 'Opinionated performance plotting for TensorFlow models.'
 
