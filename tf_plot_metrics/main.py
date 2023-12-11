@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-def plot_metrics(model, metrics=["loss", "accuracy"], plot_val=True, row=True, grid=True, figsize=None):
+def tf_plot_metrics(model, metrics=["loss", "accuracy"], plot_val=True, row=True, grid=True, figsize=None):
     try:
         hist = model.history.history
         if figsize is None:

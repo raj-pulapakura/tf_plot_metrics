@@ -1,2 +1,6 @@
 env
 __pycache__
+api_token.txt
+tf_plot_metrics.egg-info
+dist
+build
