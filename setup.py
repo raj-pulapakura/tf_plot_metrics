@@ -1,8 +1,10 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.1.0' 
+VERSION = '1.0.1' 
 DESCRIPTION = 'Opinionated performance plotting for TensorFlow models.'
-LONG_DESCRIPTION = 'Opinionated performance plotting for TensorFlow models.'
+LONG_DESCRIPTION = """tf_plot_metrics provides a function to easily plot graphs for evaluating TensorFlow model performance.
+
+See https://github.com/raj-pulapakura/tf_plot_metrics for documentation."""
 
 # Setting up
 setup(
@@ -23,5 +25,6 @@ setup(
             "Programming Language :: Python :: 3",
             "Operating System :: MacOS :: MacOS X",
             "Operating System :: Microsoft :: Windows",
-        ]
+        ],
+        url="https://github.com/raj-pulapakura/tf_plot_metrics"
 )
