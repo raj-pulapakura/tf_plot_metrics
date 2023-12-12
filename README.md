@@ -1,10 +1,12 @@
 # tf_plot_metrics
 
-Opinionated performance plotting for TensorFlow models.
+![Frame 1 (2)](https://github.com/raj-pulapakura/tf_plot_metrics/assets/87762282/fd429e09-84f4-463f-96f3-07831acaad97)
 
-# Pip install
+# Get it
 
-```
+Use Pip to install the package.
+
+```bash
 pip install tf_plot_metrics
 ```
 
